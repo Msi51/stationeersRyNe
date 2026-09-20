@@ -1,0 +1,25 @@
+public enum RecipeType
+{
+	Ingot,
+	Fabricator,
+	Centrifuge,
+	Furnace,
+	ArcFurnace,
+	ChemistryStation,
+	PaintMixer,
+	Microwave,
+	Autolathe,
+	ElectronicsPrinter,
+	SecurityPrinter,
+	HydraulicPipeBender,
+	ToolManufactory,
+	OrganicsPrinter,
+	ReagentProcessor,
+	AdvancedFurnace,
+	PackagingMachine,
+	AutomatedOven,
+	AdvancedPackagingMachine,
+	RocketManufactory,
+	TerraformingManufactory,
+	MaxRecipeType
+}

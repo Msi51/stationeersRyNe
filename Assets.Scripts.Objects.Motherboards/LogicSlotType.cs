@@ -1,0 +1,38 @@
+namespace Assets.Scripts.Objects.Motherboards;
+
+public enum LogicSlotType : byte
+{
+	None,
+	Occupied,
+	OccupantHash,
+	Quantity,
+	Damage,
+	Efficiency,
+	Health,
+	Growth,
+	Pressure,
+	Temperature,
+	Charge,
+	ChargeRatio,
+	Class,
+	PressureWaste,
+	PressureAir,
+	MaxQuantity,
+	Mature,
+	PrefabHash,
+	Seeding,
+	LineNumber,
+	Volume,
+	Open,
+	On,
+	Lock,
+	SortingClass,
+	FilterType,
+	ReferenceId,
+	HarvestedHash,
+	Mode,
+	MaturityRatio,
+	SeedingRatio,
+	FreeSlots,
+	TotalSlots
+}
